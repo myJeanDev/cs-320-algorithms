@@ -1,0 +1,29 @@
+# 6 city world with a single simple path of A, C, E, B, D, F
+
+A, B, 8
+A, C, 8
+A, D, 8
+A, E, 8
+A, F, 8
+
+B, C, 8
+B, D, 8
+B, E, 8
+B, F, 8
+
+C, D, 8
+C, E, 8
+C, F, 8
+
+D, E, 8
+D, F, 8
+
+E, F, 8
+
+# update above to add best path
+A, C, 1
+C, E, 1
+E, B, 1
+B, D, 1
+D, F, 1
+F, A, 1

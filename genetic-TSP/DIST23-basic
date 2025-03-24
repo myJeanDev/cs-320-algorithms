@@ -1,0 +1,290 @@
+# 23 cities in three districts with big distances between districts
+
+# first district is nodes A-H
+A, B, 21
+A, C, 21
+A, D, 21
+A, E, 21
+A, F, 21
+A, G, 21
+A, H, 21
+
+B, C, 21
+B, D, 21
+B, E, 21
+B, F, 21
+B, G, 21
+B, H, 21
+
+C, D, 21
+C, E, 21
+C, F, 21
+C, G, 21
+C, H, 21
+
+D, E, 21
+D, F, 21
+D, G, 21
+D, H, 21
+
+E, F, 21
+E, G, 21
+E, H, 21
+
+F, G, 21
+F, H, 21
+
+G, H, 21
+
+# second district is I-P
+
+I, J, 22
+I, K, 22
+I, L, 22
+I, M, 22
+I, N, 22
+I, O, 22
+I, P, 22
+
+J, K, 22
+J, L, 22
+J, M, 22
+J, N, 22
+J, O, 22
+J, P, 22
+
+K, L, 22
+K, M, 22
+K, N, 22
+K, O, 22
+K, P, 22
+
+L, M, 22
+L, N, 22
+L, O, 22
+L, P, 22
+
+M, N, 22
+M, O, 22
+M, P, 22
+
+N, O, 22
+N, P, 22
+
+O, P, 22
+
+# third district is Q-W
+
+Q, R, 23
+Q, S, 23
+Q, T, 23
+Q, U, 23
+Q, V, 23
+Q, W, 23
+
+R, S, 23
+R, T, 23
+R, U, 23
+R, V, 23
+R, W, 23
+
+S, T, 23
+S, U, 23
+S, V, 23
+S, W, 23
+
+T, U, 23
+T, V, 23
+T, W, 23
+
+U, V, 23
+U, W, 23
+
+V, W, 23
+
+# all inter district distances are big
+A, I, 227
+A, J, 227
+A, K, 227
+A, L, 227
+A, M, 227
+A, N, 227
+A, O, 227
+A, P, 227
+A, Q, 227
+A, R, 227
+A, S, 227
+A, T, 227
+A, U, 227
+A, V, 227
+A, W, 227
+
+B, I, 227
+B, J, 227
+B, K, 227
+B, L, 227
+B, M, 227
+B, N, 227
+B, O, 227
+B, P, 227
+B, Q, 227
+B, R, 227
+B, S, 227
+B, T, 227
+B, U, 227
+B, V, 227
+B, W, 227
+
+C, I, 227
+C, J, 227
+C, K, 227
+C, L, 227
+C, M, 227
+C, N, 227
+C, O, 227
+C, P, 227
+C, Q, 227
+C, R, 227
+C, S, 227
+C, T, 227
+C, U, 227
+C, V, 227
+C, W, 227
+
+D, I, 227
+D, J, 227
+D, K, 227
+D, L, 227
+D, M, 227
+D, N, 227
+D, O, 227
+D, P, 227
+D, Q, 227
+D, R, 227
+D, S, 227
+D, T, 227
+D, U, 227
+D, V, 227
+D, W, 227
+
+E, I, 227
+E, J, 227
+E, K, 227
+E, L, 227
+E, M, 227
+E, N, 227
+E, O, 227
+E, P, 227
+E, Q, 227
+E, R, 227
+E, S, 227
+E, T, 227
+E, U, 227
+E, V, 227
+E, W, 227
+
+F, I, 227
+F, J, 227
+F, K, 227
+F, L, 227
+F, M, 227
+F, N, 227
+F, O, 227
+F, P, 227
+F, Q, 227
+F, R, 227
+F, S, 227
+F, T, 227
+F, U, 227
+F, V, 227
+F, W, 227
+
+G, I, 227
+G, J, 227
+G, K, 227
+G, L, 227
+G, M, 227
+G, N, 227
+G, O, 227
+G, P, 227
+G, Q, 227
+G, R, 227
+G, S, 227
+G, T, 227
+G, U, 227
+G, V, 227
+G, W, 227
+
+H, I, 227
+H, J, 227
+H, K, 227
+H, L, 227
+H, M, 227
+H, N, 227
+H, O, 227
+H, P, 227
+H, Q, 227
+H, R, 227
+H, S, 227
+H, T, 227
+H, U, 227
+H, V, 227
+H, W, 227
+
+I, Q, 227
+I, R, 227
+I, S, 227
+I, T, 227
+I, U, 227
+I, V, 227
+I, W, 227
+
+J, Q, 227
+J, R, 227
+J, S, 227
+J, T, 227
+J, U, 227
+J, V, 227
+J, W, 227
+K, Q, 227
+K, R, 227
+K, S, 227
+K, T, 227
+K, U, 227
+K, V, 227
+K, W, 227
+L, Q, 227
+L, R, 227
+L, S, 227
+L, T, 227
+L, U, 227
+L, V, 227
+L, W, 227
+M, Q, 227
+M, R, 227
+M, S, 227
+M, T, 227
+M, U, 227
+M, V, 227
+M, W, 227
+N, Q, 227
+N, R, 227
+N, S, 227
+N, T, 227
+N, U, 227
+N, V, 227
+N, W, 227
+O, Q, 227
+O, R, 227
+O, S, 227
+O, T, 227
+O, U, 227
+O, V, 227
+O, W, 227
+P, Q, 227
+P, R, 227
+P, S, 227
+P, T, 227
+P, U, 227
+P, V, 227
+P, W, 227
